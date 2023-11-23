@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 ask me about
+* 💬 ask me about
   
  工作经验6年</br>
  是一名高级后端java工程师</br>
@@ -9,7 +9,7 @@
  目前在一家人工智能公司工作</br>
  
 - 🌱 I’m currently learning
- 正在学习ruby c++
+ 正在学习ruby c++</br>
 
 - 📫 How to reach me
   
