@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**CollectBugs/CollectBugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 ask me about
+  
+ 工作经验6年
+ 是一名高级后端java工程师
+ 一直从事智能化项目业务领域
+ 在创业公司、传统iT公司、独角兽互联网工作过
+ 目前在一家人工智能公司工作
+ 
+- 🌱 I’m currently learning
+ 正在学习ruby c++
 
-Here are some ideas to get you started:
+- 📫 How to reach me
+  
+ weixin：GZ150983P
+ 邮箱：17853522814@163.com
+ csdn博客https://blog.csdn.net/GZ946?type=blog
+ gitee：https://gitee.com/GZ-jelly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Contribute to open source projects
+ * https://github.com/cskefu/cskefu
+ * https://github.com/Castodon/castodon
+   
+- ⚡ interesting
+  
+  看书 、街舞、旅行 
+
