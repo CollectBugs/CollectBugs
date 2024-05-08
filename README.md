@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning
   
- &nbsp;&nbsp;正在学习ruby c++</br>
+ &nbsp;&nbsp;正在学习vue、python c++</br>
 
 - 📫 How to reach me
   
